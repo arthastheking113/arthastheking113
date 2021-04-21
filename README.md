@@ -1,4 +1,4 @@
-I am full stack .NET developer and problem solving is my favorite. I love hard problem because I can learn a lot of knowledge from it.
+I am full stack Angular + .NET developer and problem solving is my favorite. I love hard problem because I can learn a lot of knowledge from it.
 
 Beside working, I usually learning about investing and financing in my free time. Hanging out with friend and breathing fresh air is what I usually do in the weekend after a hard working week.
 
@@ -17,4 +17,4 @@ I have built several projects (Bug Tracker, Ecommerce Online Market, and persona
 
 You can have a look at all of my projects in my online portfolio. This is the link to my online portfolio:  https://duylanle-portfolio.netlify.app/
 
-Notes: All of my projects are hosted on a free Heroku Server, so, It will take a minute to boot up.
+Notes: All of my projects are hosted on a free Heroku Server, so, It will take about a minute to boot up.
