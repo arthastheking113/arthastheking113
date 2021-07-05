@@ -15,6 +15,7 @@ A few I would like to highlight that would enable me to contribute to your botto
 
 I have built several projects (Bug Tracker, Ecommerce Online Market, and personal Blog) using ASP .NET MVC C# as Back-end, Angular, HTML, CSS, JavaScript, Jquery, BootStrap, and Ajax as Front-end, I using Database like PostgresSQL, and MicrosoftSQL server. I also work on WebAPI, Angular, and Stripe.
 
-You can have a look at all of my projects in my online portfolio. This is the link to my online portfolio:  https://duylanle-portfolio.netlify.app/
+You can have a look at all of my projects in my online portfolio. This is the link to my online portfolio: 
+https://duylanle-portfolio.netlify.app/
 
 Notes: All of my projects are hosted on a free Heroku Server, so, It will take about a minute to boot up.
