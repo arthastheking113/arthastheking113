@@ -19,6 +19,6 @@ My main focus right now is Blazor and Web Assembly. I think It will be the futur
 
 You can have a look at all of my projects in my online portfolio. This is the link to my online portfolio: 
 
-https://duylanle-portfolio.netlify.app/
+[https://duylanle.com/](https://duylanle.com/)
 
 Notes: All of my projects are hosted on a free Heroku Server, so, It will take about a minute to boot up.
