@@ -6,4 +6,4 @@ As an experience Software Engineer, I possess strong leadership qualities that e
 
 You can have a look at all of my projects in my online portfolio. This is the link to my online portfolio: 
 
-[https://lanle.com/](https://lanle.me)
+[https://lanle.me](https://lanle.me)
